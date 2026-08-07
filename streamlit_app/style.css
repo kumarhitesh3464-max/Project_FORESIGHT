@@ -1,0 +1,90 @@
+/* ==========================================
+   PROJECT FORESIGHT THEME
+========================================== */
+
+/* Main Background */
+.stApp{
+    background-color:#F5F7FA;
+}
+
+/* Main Title */
+h1{
+    color:#0F172A !important;
+    font-size:42px !important;
+    font-weight:800 !important;
+}
+
+/* Sub Titles */
+h2,h3{
+    color:#1E3A8A !important;
+    font-weight:700 !important;
+}
+
+/* Paragraph */
+p{
+    color:#374151 !important;
+    font-size:16px;
+}
+
+/* Horizontal Line */
+hr{
+    border:1px solid #D1D5DB;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"]{
+    background:#0F4C81;
+}
+
+section[data-testid="stSidebar"] *{
+    color:white !important;
+}
+
+/* Sidebar Buttons */
+section[data-testid="stSidebar"] button{
+    border-radius:10px;
+}
+
+/* Metric Cards */
+div[data-testid="stMetric"]{
+    background:white;
+    border-radius:15px;
+    padding:15px;
+    box-shadow:0 4px 12px rgba(0,0,0,0.15);
+}
+
+/* Download Button */
+.stDownloadButton>button{
+    background:#0F4C81;
+    color:white;
+    border-radius:10px;
+    border:none;
+}
+
+/* Normal Buttons */
+.stButton>button{
+    border-radius:10px;
+    background:#2563EB;
+    color:white;
+    border:none;
+}
+
+/* Tables */
+thead tr th{
+    background:#0F4C81 !important;
+    color:white !important;
+}
+
+tbody tr td{
+    color:#111827 !important;
+}
+
+/* Dataframe */
+[data-testid="stDataFrame"]{
+    border-radius:12px;
+}
+
+/* Success */
+.stAlert{
+    border-radius:12px;
+}

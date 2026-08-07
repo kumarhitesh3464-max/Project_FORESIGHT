@@ -1,0 +1,4 @@
+Model,MAE,RMSE,R2 Score
+XGBoost,0.8,1.0,0.1596
+LightGBM,0.8,1.0,0.1653
+Random Forest,0.82,1.02,0.1288
