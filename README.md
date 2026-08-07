@@ -103,45 +103,41 @@ The Streamlit application contains seven interactive pages:
 
 # 📸 Dashboard Preview
 
-## 🏠 Home Dashboard
+# Dashboard Screenshots
+# 📸 Dashboard Preview
 
-![Home](screenshots/Home.png)
+## 🏠 Home
+![Home Dashboard](./screenshots/home.png)
 
 ---
 
 ## 📊 Sales Analytics
-
-![Sales](screenshots/Sales_Analytics.png)
+![Sales Analytics](./screenshots/sales.png)
 
 ---
 
 ## 📈 Forecast Dashboard
-
-![Forecast](screenshots/Forecast.png)
+![Forecast Dashboard](./screenshots/forecast.png)
 
 ---
 
 ## 📦 Inventory Dashboard
-
-![Inventory](screenshots/Inventory.png)
+![Inventory Dashboard](./screenshots/inventory.png)
 
 ---
 
-## ⚠ Risk Dashboard
-
-![Risk](screenshots/Risk.png)
+## ⚠️ Risk Dashboard
+![Risk Dashboard](./screenshots/risk.png)
 
 ---
 
 ## 🔍 Product Details
-
-![Product](screenshots/Product_Details.png)
+![Product Details](./screenshots/product.png)
 
 ---
 
 ## 📋 Executive Summary
-
-![Executive](screenshots/Executive_Summary.png)
+![Executive Summary](./screenshots/executive.png)
 
 ---
 
