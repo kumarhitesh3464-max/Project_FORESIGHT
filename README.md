@@ -229,7 +229,7 @@ streamlit run streamlit_app/app.py
 
 **Streamlit Application**
 
-(Add your deployment link here)
+(https://projectforesight-bxhzjwsvddgpwxvgzuatd8.streamlit.app/)
 
 ---
 
