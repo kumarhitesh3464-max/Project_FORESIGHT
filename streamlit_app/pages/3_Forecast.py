@@ -230,7 +230,7 @@ with col2:
     rolling_30 = st.number_input("Rolling 30", value=117.0)
 
     stock_gap = st.number_input("Stock Gap", value=150.0)
-
+    st.markdown("---")
 
 if st.button("🚀 Predict Demand"):
 
@@ -270,4 +270,7 @@ if st.button("🚀 Predict Demand"):
 
         st.error(result["error"])
 
+st.markdown("---")
+
 st.caption("© 2026 Project FORESIGHT | Demand Forecast Dashboard")
+
