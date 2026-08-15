@@ -1,6 +1,6 @@
 # 📦 Project FORESIGHT
 
-# Retail Demand Forecasting & Inventory Risk Management System
+#  Project FORESIGHT – AI-Powered Demand & Inventory Intelligence Platform
 
 An end-to-end **Machine Learning, Forecasting, Inventory Risk Management, and Business Intelligence** solution designed to forecast retail demand, identify inventory risks, and support data-driven inventory planning through an interactive Streamlit dashboard and REST API.
 
