@@ -13,11 +13,14 @@ st.set_page_config(
 st.title("🏠 PROJECT FORESIGHT")
 
 st.markdown("""
-### Retail Demand Forecasting & Inventory Risk Management System
 
-### 🚀 Predict Today • Optimize Tomorrow
+# 📦 Project FORESIGHT
+
+### AI-Powered Demand & Inventory Intelligence Platform
+
+**Predict Today • Optimize Tomorrow**
+
 """)
-
 st.markdown("---")
 
 # ======================================

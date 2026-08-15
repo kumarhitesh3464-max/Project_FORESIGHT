@@ -13,10 +13,11 @@ BASE_DIR = Path(__file__).parent
 # ==========================================
 
 st.set_page_config(
-    page_title="Project FORESIGHT",
+    page_title="Project FORESIGHT – AI-Powered Demand & Inventory Intelligence Platform",
     page_icon=str(BASE_DIR / "assets" / "favicon.png"),
     layout="wide"
 )
+
 
 # ==========================================
 # LOAD CSS
@@ -107,7 +108,7 @@ st.markdown("""
 
 # 📦 PROJECT FORESIGHT
 
-### Retail Demand Forecasting & Inventory Risk Management System
+###Project FORESIGHT – AI-Powered Demand & Inventory Intelligence Platform
 
 **Predict Today • Optimize Tomorrow**
 
@@ -281,4 +282,6 @@ with col2:
 
 st.markdown("---")
 
-st.caption("© 2026 Project FORESIGHT | Retail Demand Forecasting Dashboard")
+st.caption(
+    "© 2026 Project FORESIGHT – AI-Powered Demand & Inventory Intelligence Platform"
+)
